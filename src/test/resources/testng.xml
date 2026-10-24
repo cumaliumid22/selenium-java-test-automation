@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Login Single Test Suite">
+    <test name="Invalid Email Format Test">
+        <classes>
+            <class name="tests.CopyAutomationTest">
+                <methods>
+                    <include name="invalidEmailFormat"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
