@@ -41,6 +41,7 @@ Test scenarios and test cases are managed using Jira and Zephyr. Test executions
 Rahul Shetty Academy Client Demo
 
 **Note:** This is a portfolio project created to demonstrate QA testing and automation skills using a demo application.
+
 ## Project Status
 
-This project is a work in progress. Due to time constraints alongside my professional responsibilities, some planned test cases have not yet been automated. I plan to expand the test coverage and improve the automation framework in future updates.
+This project is a work in progress. Some planned test cases have not yet been automated. Additional test scenarios, improved test coverage, and enhancements to the automation framework are planned for future updates.
